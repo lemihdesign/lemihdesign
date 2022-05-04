@@ -23,6 +23,9 @@ _________
 - Visual Studio Code
 - Figma
 - Adobe XD
+- Jira
+- Mural
+- Miro
 
 _________
 
