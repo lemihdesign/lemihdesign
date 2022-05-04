@@ -1,5 +1,5 @@
 ![githubHeader](https://user-images.githubusercontent.com/76050486/166700922-ce0fdaac-0217-46b2-9459-9a6214bb5d6b.jpg)
-
+![Profile views](https://gpvc.arturio.dev/lemihdesign)
 ### Hello 😄
 My name is Kacper. I am a Junior Frontend Developer. If you need a new dev in your team, I'm open to your job offer.
 <br /><br />🔨 All of my projects are available [here](https://lemiszewski.pl) on my portfolio website.
